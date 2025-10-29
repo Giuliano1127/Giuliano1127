@@ -1,25 +1,29 @@
-# 👋 Olá, eu sou o Giuliano !
+# 👋 Olá, eu sou o Giuliano!
 
-🎓 Estudante de Automação Industrial na FATEC Itaquera  
-🔧 Técnico em Mecatrônica pelo SENAI Roberto Simonsen  
-🚀 Apaixonado por Automação, Robótica Aplicada e Sistemas Embarcados  
+🎓 Estudante de Automação Industrial | 🔧 Técnico em Mecatrônica  
+🚀 Focado em Automação, Robótica e Sistemas Embarcados  
+
+---
 
 ## 🧠 Sobre Mim
 
-Sou um entusiasta da tecnologia, focado em aplicar soluções práticas no setor industrial. Atualmente estou me especializando em automação industrial, com conhecimentos sólidos em CLPs (Siemens, Altus, CODESYS), sistemas SCADA, microcontroladores (PIC e ESP32), eletrônica e programação (C/C++ e Python).
+Profissional em formação, apaixonado por automação industrial e inovação tecnológica. Experiência prática em CLPs, sistemas SCADA, microcontroladores e programação. Busco desenvolver soluções eficientes e integradas para processos industriais e projetos de IoT.  
 
-Estou sempre buscando oportunidades para desenvolver habilidades práticas, colaborar em projetos inovadores e contribuir com soluções eficientes no mercado de automação e robótica.
+---
 
-## ⚙️ Tecnologias e Ferramentas
+## ⚡ Skills & Ferramentas
 
-- **CLPs:** Siemens S7-1200, Altus, CODESYS  
-- **SCADA:** Elipse E3  
-- **Linguagens:** C, C++, Python  
-- **Microcontroladores:** PIC 16F, ESP32, Arduino  
-- **Protocolos & Integrações:** Node-RED, MQTT (básico)  
-- **Eletrônica:** Analógica e Digital  
-- **Softwares:** Proteus, AutoCAD (básico), Excel (básico)  
-- **Outros:** Comandos elétricos industriais  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23FF6F00.svg?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-%2300999C.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Siemens](https://img.shields.io/badge/Siemens-%2300AEEF.svg?style=for-the-badge)
+![Elipse E3](https://img.shields.io/badge/Elipse%20E3-%230080C0.svg?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-%23FF6F00.svg?style=for-the-badge)
+![Node-RED](https://img.shields.io/badge/Node--RED-%23E23237.svg?style=for-the-badge)
+
+---
 
 ## 📜 Certificações
 
@@ -30,18 +34,25 @@ Estou sempre buscando oportunidades para desenvolver habilidades práticas, cola
 - Eletricista Instalador – SENAI  
 - NR-10 – SENAI  
 
-## 🌱 Em aprendizado contínuo:
+---
 
-- Inglês técnico  
-- Integração de sistemas industriais  
-- Projetos com foco em IoT e Indústria 4.0  
+## 🌱 Aprendizado Contínuo
 
-## 📫 Vamos nos conectar?
+- Inglês técnico aplicado à automação  
+- Integração de sistemas industriais e IoT  
+- Projetos voltados à Indústria 4.0  
+
+---
+
+## 📂 Projetos em Destaque
+
+---
+
+## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/giuliano-barone-6a3a67249)  
 - [GitHub](https://github.com/Giuliano1127)  
 
 ---
 
-🛠 Em construção: Meu portfólio com projetos de automação, firmware e IoT. Fique à vontade para acompanhar minha evolução!
-
+💡 **Portfólio em construção:** projetos de automação, firmware e IoT, com demonstrações práticas e códigos comentados.
