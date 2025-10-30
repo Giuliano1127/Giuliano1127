@@ -18,13 +18,13 @@ Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 **🛠 Softwares e Plataformas:**  
-![CoDeSys](https://img.shields.io/badge/CoDeSys-%23E60012.svg?style=for-the-badge) – programação de CLPs, lógica sequencial e intertravamentos  
-![CadSimu](https://img.shields.io/badge/CadSimu-%230080C0.svg?style=for-the-badge) – simulação de processos industriais e modelagem via Redes de Petri  
+![CoDeSys](https://img.shields.io/badge/CoDeSys-%23E60012.svg?style=for-the-badge) 
+![CadSimu](https://img.shields.io/badge/CadSimu-%230080C0.svg?style=for-the-badge)  
 ![Arduino](https://img.shields.io/badge/Arduino-%2300999C.svg?style=for-the-badge)
 
 **Experiência prática:**  
 - Programação de **CLPs e microcontroladores** para automação de processos  
-- Desenvolvimento de **sequências automatizadas e intertravamentos de atuadores**  
+- Desenvolvimento de **sequências automatizadas**  
 - Simulação de sistemas industriais e validação de lógica de controle  
 
 ---
@@ -77,7 +77,7 @@ Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração
 
 - [LinkedIn](https://www.linkedin.com/in/giuliano-barone-6a3a67249)  
 - [GitHub](https://github.com/Giuliano1127)  
-
+- [Email](giuliano.m.b98@gmail.com)
 ---
 
 💡 **Portfólio em expansão:** foco em **automação industrial, sistemas embarcados e IoT**, combinando prática real e aprendizado contínuo.
