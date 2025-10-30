@@ -18,7 +18,7 @@ Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 **🛠 Softwares e Plataformas:**  
-![CoDeSys](https://img.shields.io/badge/CoDeSys-%23E60012.svg?style=for-the-badge) 
+![CoDeSys](https://img.shields.io/badge/CoDeSys-%23E60012.svg?style=for-the-badge)
 ![CadSimu](https://img.shields.io/badge/CadSimu-%230080C0.svg?style=for-the-badge)  
 ![Arduino](https://img.shields.io/badge/Arduino-%2300999C.svg?style=for-the-badge)
 
