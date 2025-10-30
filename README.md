@@ -1,14 +1,15 @@
 # 👋 Olá, eu sou o Giuliano!
 
 🎓 **Técnologo em Automação Industrial (FATEC)** | 🔧 **Técnico em Mecatrônica (SENAI)**  
-🚀 Focado em **Automação, Robótica e Sistemas Embarcados**  
+🚀 Focado em **Automação, Robótica Aplicada e Sistemas Embarcados**
 
 ---
 
 ## 🧠 Sobre Mim
 
-Profissional em formação, com **forte prática em C e automação industrial**. Experiência com CLPs, comandos elétricos, simulações via CadSimu e lógica Ladder.  
-Atualmente estou **aprimorando habilidades em Python, IoT e sistemas embarcados** para projetos mais integrados e inovadores.
+Profissional em formação com **forte prática em C para microcontroladores e Ladder/CoDeSys para CLPs**.  
+Atualmente estou **desenvolvendo habilidades em Python, SCADA, Node-RED e integração IoT**.  
+Busco aplicar conhecimentos em **automação industrial e projetos embarcados** de forma prática e integrada.
 
 ---
 
@@ -18,15 +19,13 @@ Atualmente estou **aprimorando habilidades em Python, IoT e sistemas embarcados*
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Ladder](https://img.shields.io/badge/Ladder%20Logic-%23006FAD.svg?style=for-the-badge)
 ![Codesys](https://img.shields.io/badge/CODESYS-%23E60012.svg?style=for-the-badge)
-![Elipse E3](https://img.shields.io/badge/Elipse%20E3-%230080C0.svg?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-%23FF6F00.svg?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-%2300999C.svg?style=for-the-badge)
 
 **Experiência Prática:**  
-- Programação em **C** para microcontroladores e sistemas embarcados  
-- **CLPs e lógica Ladder** (implementação de sequências e intertravamentos)  
-- Simulação de processos industriais via **CadSimu / Redes de Petri**  
-- Supervisórios **Elipse E3** (teoria e prática)  
-- Comunicação industrial via **MQTT**  
+- Programação em **C** para PIC, ESP e Arduino  
+- **Lógica Ladder e CoDeSys** para CLPs  
+- Modelagem e simulação de processos industriais via **CadSimu / Redes de Petri**  
+- Desenvolvimento de sequências automatizadas e intertravamentos de atuadores  
 
 ---
 
@@ -34,25 +33,25 @@ Atualmente estou **aprimorando habilidades em Python, IoT e sistemas embarcados*
 
 **Linguagens e Ferramentas:**  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-%23FF6F00.svg?style=for-the-badge)
 ![Node-RED](https://img.shields.io/badge/Node--RED-%23E23237.svg?style=for-the-badge)
-![Siemens](https://img.shields.io/badge/Siemens%20S7-%2300AEEF.svg?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-%23FF6F00.svg?style=for-the-badge)
+![SCADA](https://img.shields.io/badge/SCADA-%230080C0.svg?style=for-the-badge)
 
 **Foco Atual:**  
-- Desenvolvimento em **Python** para automação e IA embarcada  
-- **Integração de ESP32** e IoT aplicada à indústria  
-- Aplicação de **C++ em microcontroladores**  
-- Teoria e prática de **CLPs Siemens S7-1200**  
-- Supervisão e dashboards via **Node-RED**  
+- Desenvolvimento em **Python** para automação e análise de dados  
+- Integração de sistemas **IoT** com ESP32 e Node-RED  
+- Comunicação industrial via **MQTT**  
+- Teoria e prática de **SCADA e supervisórios**  
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Portfólio & Projetos
 
-- [Projetos CadSimu](https://github.com/Giuliano1127/Projetos-Cadsimu) — Simulações acadêmicas via **Redes de Petri e Ladder**  
-- [Portão Automático](#) — Controle sequencial em lógica Ladder  
-- [ESP32-CAM Detecção de Anomalias](#) — Projeto em desenvolvimento de **IA embarcada**  
+**Repositórios de destaque:**  
+- [Projetos-Cadsimu](https://github.com/Giuliano1127/Projetos-Cadsimu) — simulações de automação via CadSimu  
+- Projetos em desenvolvimento: **ESP32-CAM, Portão Automático e outros** (links serão adicionados quando concluídos)  
+
+> Todos os projetos incluem documentação e simulações práticas, com foco em aprendizado aplicado.
 
 ---
 
@@ -69,9 +68,9 @@ Atualmente estou **aprimorando habilidades em Python, IoT e sistemas embarcados*
 
 ## 🌱 Aprendizado Contínuo
 
-- Inglês técnico aplicado à automação  
-- Integração de sistemas industriais com IoT  
-- Desenvolvimento de projetos para Indústria 4.0  
+- Integração de sistemas industriais com **IoT e supervisórios**  
+- Projetos de **Indústria 4.0**  
+- Desenvolvimento em **Python e C++** para aplicações embarcadas  
 
 ---
 
@@ -82,4 +81,4 @@ Atualmente estou **aprimorando habilidades em Python, IoT e sistemas embarcados*
 
 ---
 
-💡 **Portfólio em expansão:** foco em integração de **automação industrial, IoT e inteligência embarcada**, combinando teoria e prática real.
+💡 **Portfólio em expansão:** foco em **automação industrial, sistemas embarcados e IoT**, combinando teoria e prática real.
