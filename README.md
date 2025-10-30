@@ -18,12 +18,12 @@ Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 **🛠 Softwares e Ferramentas:**  
-![CoDeSys](https://img.shields.io/badge/CoDeSys-%23E60012.svg?style=for-the-badge) – desenvolvimento de lógica para CLPs em diferentes tipos de programação  
+![CoDeSys](https://img.shields.io/badge/CoDeSys-%23E60012.svg?style=for-the-badge) – desenvolvimento de lógica para CLPs em linguagem ladder
 ![CadSimu](https://img.shields.io/badge/CadSimu-%230080C0.svg?style=for-the-badge) – simulação de processos industriais e modelagem via Redes de Petri  
 ![Arduino](https://img.shields.io/badge/Arduino-%2300999C.svg?style=for-the-badge)
 
 **Experiência prática:**  
-- Programação de CLPs em ambientes industriais, aplicando **sequências automatizadas e intertravamentos de atuadores**  
+- Programação de CLP  
 - Simulação de sistemas industriais para validação de lógica de controle  
 - Programação de **microcontroladores (PIC, ESP32, Arduino)** para automação de processos  
 
