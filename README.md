@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Giuliano!
+       # 👋 Olá, eu sou o Giuliano!
 
 🎓 Estudante de Automação Industrial | 🔧 Técnico em Mecatrônica  
 🚀 Focado em Automação, Robótica e Sistemas Embarcados  
