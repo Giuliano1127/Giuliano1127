@@ -7,8 +7,8 @@
 
 ## 🧠 Sobre Mim
 
-Profissional em formação com **prática consolidada em programação de CLPs, microcontroladores e sistemas embarcados**.  
-Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração IoT**, buscando projetos industriais aplicados e inovação tecnológica.
+Profissional em formação, com **forte prática em programação de CLPs e microcontroladores**.  
+Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração IoT**, voltadas para projetos de automação industrial e sistemas embarcados.
 
 ---
 
@@ -17,15 +17,15 @@ Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração
 **💻 Linguagens de Programação:**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-**🛠 Softwares e Ferramentas:**  
-![CoDeSys](https://img.shields.io/badge/CoDeSys-%23E60012.svg?style=for-the-badge) – desenvolvimento de lógica para CLPs em linguagem ladder
+**🛠 Softwares e Plataformas:**  
+![CoDeSys](https://img.shields.io/badge/CoDeSys-%23E60012.svg?style=for-the-badge) – programação de CLPs, lógica sequencial e intertravamentos  
 ![CadSimu](https://img.shields.io/badge/CadSimu-%230080C0.svg?style=for-the-badge) – simulação de processos industriais e modelagem via Redes de Petri  
 ![Arduino](https://img.shields.io/badge/Arduino-%2300999C.svg?style=for-the-badge)
 
 **Experiência prática:**  
-- Programação de CLP  
-- Simulação de sistemas industriais para validação de lógica de controle  
-- Programação de **microcontroladores (PIC, ESP32, Arduino)** para automação de processos  
+- Programação de **CLPs e microcontroladores** para automação de processos  
+- Desenvolvimento de **sequências automatizadas e intertravamentos de atuadores**  
+- Simulação de sistemas industriais e validação de lógica de controle  
 
 ---
 
@@ -33,15 +33,14 @@ Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração
 
 **💻 Linguagens de Programação:**  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**🛠 Softwares e Ferramentas:**  
+**🛠 Softwares e Plataformas:**  
 ![Node-RED](https://img.shields.io/badge/Node--RED-%23E23237.svg?style=for-the-badge)  
 ![MQTT](https://img.shields.io/badge/MQTT-%23FF6F00.svg?style=for-the-badge)  
 ![SCADA](https://img.shields.io/badge/SCADA-%230080C0.svg?style=for-the-badge)
 
-**Foco atual:**  
-- Desenvolvimento de **Python** para automação e IA embarcada  
+**Foco Atual:**  
+- Desenvolvimento em **Python** para automação e IA embarcada  
 - Integração de sistemas **IoT** com ESP32 e Node-RED  
 - Comunicação industrial via **MQTT**  
 - Supervisão de processos via **SCADA e dashboards**  
@@ -51,7 +50,7 @@ Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração
 ## 📂 Portfólio & Projetos
 
 - [Projetos-Cadsimu](https://github.com/Giuliano1127/Projetos-Cadsimu) — projetos acadêmicos concluídos de **automação industrial via CadSimu e Redes de Petri**  
-- Outros projetos **em desenvolvimento** serão adicionados futuramente  
+- Outros projetos estão **em desenvolvimento** e serão adicionados futuramente  
 
 ---
 
@@ -70,7 +69,7 @@ Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração
 
 - Integração de sistemas industriais com **IoT e supervisórios**  
 - Projetos voltados à **Indústria 4.0**  
-- Aprimoramento em **Python e C++** para aplicações embarcadas  
+- Aprimoramento em **Python** para aplicações embarcadas  
 
 ---
 
