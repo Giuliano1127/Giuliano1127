@@ -1,80 +1,81 @@
-👋 Olá, eu sou o Giuliano Barone!
-🎓 Técnologo em Automação Industrial (FATEC) | 🔧 Técnico em Mecatrônica (SENAI)
-🚀 Desenvolvedor de Automação Industrial | Sistemas Embarcados | IoT
+# 👋 Olá, eu sou o Giuliano!
 
-📖 Sobre Mim
-Sou um profissional técnico com formação sólida em automação industrial e mecatrônica, especializado no desenvolvimento de sistemas de controle e automação. Minha expertise combina:
+🎓 **Técnologo em Automação Industrial (FATEC)** | 🔧 **Técnico em Mecatrônica (SENAI)**  
+🚀 Focado em **Automação, Robótica Aplicada e Sistemas Embarcados**
 
-Programação de microcontroladores (PIC, ESP32, Arduino) em C/C++
+---
 
-Programação de CLPs com Ladder Logic e CoDeSys
+## 🧠 Sobre Mim
 
-Simulação de processos industriais usando CadSimu e Redes de Petri
+Profissional em formação, com **forte prática em C para microcontroladores** (PIC, ESP32, Arduino) e **programação de CLPs usando Ladder em CoDeSys**.  
+Atualmente estou **desenvolvendo habilidades em Python, SCADA, Node-RED e integração IoT**, com foco em automação industrial e sistemas embarcados.
 
-Integração de sistemas IoT com Node-RED e MQTT
+---
 
-Atualmente expandindo meus conhecimentos em Python para automação, SCADA e sistemas industriais inteligentes para aplicações da Indústria 4.0.
+## ⚡ Habilidades Consolidadas
 
-🛠️ Stack Técnica
-🟢 Domínio Consolidado
-https://img.shields.io/badge/C-%252300599C.svg?style=for-the-badge&logo=c&logoColor=white
-https://img.shields.io/badge/Ladder%2520Logic-%2523006FAD.svg?style=for-the-badge
-https://img.shields.io/badge/CODESYS-%2523E60012.svg?style=for-the-badge
-https://img.shields.io/badge/Arduino-%252300979D.svg?style=for-the-badge&logo=arduino&logoColor=white
+**Linguagens de Programação:**  
+- **C**: microcontroladores PIC, ESP32 e Arduino  
 
-🟡 Em Desenvolvimento
-https://img.shields.io/badge/Python-%25233776AB.svg?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/C++-%252300599C.svg?style=for-the-badge&logo=c%252B%252B&logoColor=white
-https://img.shields.io/badge/Node--RED-%25238F0000.svg?style=for-the-badge&logo=nodered&logoColor=white
-https://img.shields.io/badge/MQTT-%2523660C35.svg?style=for-the-badge&logo=mqtt&logoColor=white
-https://img.shields.io/badge/SCADA-%25230064C4.svg?style=for-the-badge
+**Softwares e Ferramentas:**  
+- **CoDeSys**: desenvolvimento de lógica Ladder para CLPs  
+- **CadSimu**: simulação de processos industriais e modelagem via Redes de Petri  
 
-💼 Projetos Destacados
-Projetos CadSimu
-Repositório acadêmico contendo projetos de automação industrial desenvolvidos através do software CadSimu:
+**Experiência prática:**  
+- Criação de sequências automatizadas e intertravamentos de atuadores  
+- Simulação de sistemas industriais para validação de lógica de controle  
+- Integração de sensores e atuadores em projetos didáticos e acadêmicos  
 
-Sistemas de controle sequencial
+---
 
-Desenvolvimento de lógicas de intertravamento
+## 🧩 Habilidades em Desenvolvimento
 
-Simulação de processos industriais
+**Linguagens de Programação:**  
+- **Python**: programação para automação e análise de dados  
 
-Implementação com Redes de Petri
+**Softwares e Ferramentas:**  
+- **Node-RED**: integração de dispositivos e automação IoT  
+- **SCADA / Supervisórios**: aprendizado teórico e aplicações práticas iniciais  
+- **MQTT**: comunicação entre dispositivos IoT  
 
-Mais projetos em desenvolvimento serão adicionados em breve...
+**Foco atual:**  
+- Desenvolvimento de sistemas embarcados com ESP32  
+- Automação e integração IoT para projetos industriais  
+- Aplicação de Python para análise e controle de processos  
 
-📚 Certificações
-Área	Certificação	Instituição
-CLPs	Siemens S7-1200	Udemy
-SCADA	Elipse E3	Udemy
-CLPs	CLP para Iniciantes	Mitsubishi Electric
-Elétrica	Comandos Elétricos	SENAI
-Elétrica	Eletricista Instalador	SENAI
-Segurança	NR-10	SENAI
-🎯 Objetivos Atuais
-🔄 Integração IoT em sistemas industriais
+---
 
-🤖 Python para automação e aplicações de IA embarcada
+## 📂 Portfólio & Projetos
 
-🌐 Sistemas SCADA e supervisórios industriais
+- [Projetos-Cadsimu](https://github.com/Giuliano1127/Projetos-Cadsimu) — projetos acadêmicos concluídos de **automação industrial via CadSimu e Redes de Petri**  
+- Outros projetos estão **em desenvolvimento** e serão adicionados futuramente  
 
-⚡ Indústria 4.0 aplicada a processos industriais
+---
 
-🔧 C++ avançado para sistemas embarcados
+## 📜 Certificações
 
-📊 Estatísticas do GitHub
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=Giuliano1127&show_icons=true&theme=dark
-https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliano1127&layout=compact&theme=dark
+- Siemens S7-1200 – Udemy  
+- Elipse E3 – Udemy  
+- CLP para Iniciantes – Mitsubishi Electric  
+- Comandos Elétricos – SENAI  
+- Eletricista Instalador – SENAI  
+- NR-10 – SENAI  
 
-</div>
-📞 Conecte-se Comigo
-https://img.shields.io/badge/LinkedIn-%25230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-%2523181717.svg?style=for-the-badge&logo=github&logoColor=white
+---
 
-💡 Portfólio em constante evolução: Combinando expertise prática em automação industrial com tecnologias emergentes para desenvolver soluções inovadoras na era da Indústria 4.0.
+## 🌱 Aprendizado Contínuo
 
-<div align="center">
-"Transformando linhas de código em sistemas que movem o mundo industrial"
+- Integração de sistemas industriais com **IoT e supervisórios**  
+- Desenvolvimento de projetos para **Indústria 4.0**  
+- Aprimoramento em **Python e C++** para aplicações embarcadas  
 
-</div>
+---
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/giuliano-barone-6a3a67249)  
+- [GitHub](https://github.com/Giuliano1127)  
+- [Email](giuliano.m.b98@gmail.com) 
+---
+
+💡 **Portfólio em expansão:** foco em **automação industrial, sistemas embarcados e IoT**, combinando prática real e aprendizado contínuo.
