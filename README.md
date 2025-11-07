@@ -51,6 +51,7 @@ Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração
 
 - [Projetos-Cadsimu](https://github.com/Giuliano1127/Projetos-Cadsimu) — projetos acadêmicos concluídos de **automação industrial via CadSimu e Redes de Petri**
 - [Projetos-CLP](https://github.com/Giuliano1127/Projetos-CLP) - projetos concluídos de **automação industrial utilizando plataformas de desenvolvimentos normalizadas para clps**
+- [Sistemas-Embarcados-](https://github.com/Giuliano1127/Sistemas-Embarcados-) - projetos de sistemas embarcados simulados utilizando **Esp's, Arduino, PIC16F**
 - Outros projetos estão **em desenvolvimento** e serão adicionados futuramente  
 
 ---
