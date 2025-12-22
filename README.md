@@ -52,6 +52,8 @@ Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração
 - [Projetos-Cadsimu](https://github.com/Giuliano1127/Projetos-Cadsimu) — projetos acadêmicos concluídos de **automação industrial via CadSimu e Redes de Petri**
 - [Projetos-CLP](https://github.com/Giuliano1127/Projetos-CLP) - projetos concluídos de **automação industrial utilizando plataformas de desenvolvimentos normalizadas para clps**
 - [Sistemas-Embarcados-](https://github.com/Giuliano1127/Sistemas-Embarcados-) - projetos de sistemas embarcados simulados utilizando **Esp's, Arduino, PIC16F**
+- [IoT-Systems](https://github.com/Giuliano1127/IoT-systems) - Projetos focados em conexão remota de dispositivos ** MQTT**
+- [Protocolos-Industriais](https://github.com/Giuliano1127/Protocolos-Industriais) - Projetos Focados em comunicação utilizando protocolos industriais 
 - Outros projetos estão **em desenvolvimento** e serão adicionados futuramente  
 
 ---
@@ -64,14 +66,16 @@ Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração
 - Comandos Elétricos – SENAI  
 - Eletricista Instalador – SENAI  
 - NR-10 – SENAI  
-
+- Node - RED - Flow Fuse
+- MQTT Essesntials - HiveMQ
+- Rede Modbus - Mitsubishi Electric
 ---
 
 ## 🌱 Aprendizado Contínuo
 
 - Integração de sistemas industriais com **IoT e supervisórios**  
 - Projetos voltados à **Indústria 4.0**  
-- Aprimoramento em **Python** para aplicações embarcadas  
+- Aprimoramento em **Python** para aplicações.
 
 ---
 
