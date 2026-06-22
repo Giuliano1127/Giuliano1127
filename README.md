@@ -38,7 +38,7 @@ Atualmente desenvolvendo habilidades em **Python, SCADA, Node-RED e integração
 ![Node-RED](https://img.shields.io/badge/Node--RED-%23E23237.svg?style=for-the-badge)  
 ![SCADA](https://img.shields.io/badge/SCADA-%230080C0.svg?style=for-the-badge)
 
-** Protcolos **  
+** Protcolos 
 - MQTT
 - ModbusRTU/TCP
   
